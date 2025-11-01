@@ -1,0 +1,22 @@
+{
+  "request_id": "RDC-2025-001",
+  "service_type": "Legal Case Review – Rental Dispute",
+  "user_note": "Urgent: suspend new demands while objection is filed.",
+  "partner": {
+    "name": "Dr. Al Sabhan Legal Group & Associates",
+    "license_status": "Verified",
+    "contact": "Office: Al Quoz (near Traffic Police Station) • Abu Dhabi branch"
+  },
+  "routing": {
+    "matched_at": "2025-11-01T08:30:00Z",
+    "sla_minutes": 15,
+    "status": "Matched"
+  },
+  "payment": {
+    "currency": "USDC",
+    "amount": 100,
+    "network": "Polygon (mock)",
+    "transaction_hash": "0xabc123def4567890mockhash",
+    "status": "Confirmed"
+  }
+}
